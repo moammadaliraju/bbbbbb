@@ -1,0 +1,56 @@
+header{
+    
+}
+.navbar-nav{
+    background-color: #e2ede8;
+}
+header a img{
+    background-color: #bdc8c7;
+}
+nav ul li a:hover{
+    background-color: #c7d9d5;
+    border-radius: 5px;
+}
+.header-content h1{
+    color: #6c9894;
+    letter-spacing: 10px;
+    line-height: 50px;
+    margin-top: 80px;
+}
+.header-content p{
+    color: #6c9894
+}
+.header-content button{
+    background-color: #6c9894;
+    border-radius: 15px;
+    letter-spacing: 2px;
+    color: white;
+}
+#ABOUT{
+    background-color: #6c9894;
+}
+#SERVICES{
+    background-image: url(../img/bg3.png);
+}
+.writing-part h3{
+    color: #6c9894;
+}
+.writing-part p{
+    color: #6c9894;
+}
+#CONTACT{
+   
+}
+.write-part{
+    background-color: #6c9894;
+    margin: 0px 0px;
+}
+.write-part h3{
+    padding-top: 300px;
+    line-height: 40px;
+    letter-spacing: 6px;
+}
+.write-part button{
+    margin:0px 45px;
+    padding-right: 80px;
+}
